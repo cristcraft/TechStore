@@ -12,7 +12,12 @@
           "package_name": "com.techstore.techstore"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "685131146737-39smpq7jdbcm6vtd61els8n24ilfas3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyB34OEFGO61DbHaRIU57UU_3NdDI47F1tY"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685131146737-39smpq7jdbcm6vtd61els8n24ilfas3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
